@@ -3,9 +3,7 @@
 A desktop GUI application built in Java that implements a custom auto-sorting array list data structure powered by an explicitly coded binary search algorithm.
 
 ## 📌 Overview
-
-Developed for IT 2045C: Computer Programming II at the University of Cincinnati, this project demonstrates custom data structure implementation and logarithmic search algorithms. Instead of relying on Java's built-in Collections.binarySearch(), the underlying SortedList class uses a custom binary search algorithm to perform search operations and pinpoint exact insertion indices for incoming elements to maintain continuous lexicographical order.
-
+This project demonstrates custom data structure engineering and logarithmic search algorithms in Java. Instead of relying on built-in utilities like `Collections.binarySearch()`, the underlying `SortedList` class utilizes a custom binary search implementation to perform search operations and pinpoint exact insertion indices for new elements, maintaining continuous lexicographical order across all list updates.
 ---
 
 ## ✨ Key Features
